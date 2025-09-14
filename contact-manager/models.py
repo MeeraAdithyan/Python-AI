@@ -1,7 +1,6 @@
 # Database Models - Classes, Objects, RegEx
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime, timezone
-import re
 
 db = SQLAlchemy()
 
